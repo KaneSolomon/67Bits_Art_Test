@@ -1,0 +1,4 @@
+repository "67Bits_Art_Test/Wsolomon_67Bits_Art_Test@4674123885633@cloud"
+  path "/"
+    br "/main"
+    co "/main"
